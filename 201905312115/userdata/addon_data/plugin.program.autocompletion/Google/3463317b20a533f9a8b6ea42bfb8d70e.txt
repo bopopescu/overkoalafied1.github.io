@@ -1,0 +1,1 @@
+["R", ["rihanna", "roblox", "r kelly", "russ", "ricegum", "rap god", "rockstar", "rap", "ryan", "reaction time"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

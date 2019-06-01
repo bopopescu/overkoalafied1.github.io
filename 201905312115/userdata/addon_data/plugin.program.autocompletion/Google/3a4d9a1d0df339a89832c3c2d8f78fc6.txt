@@ -1,0 +1,1 @@
+["Ne", ["new song", "nelk", "news", "nelly", "netflix", "never enough", "new zealand", "new hindi song", "new call of duty 2019", "new edition"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

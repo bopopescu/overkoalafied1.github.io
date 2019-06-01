@@ -1,0 +1,1 @@
+["C", ["cardi b", "call of duty modern warfare", "ceeday", "call of duty", "chris brown", "city girls", "chad wild clay", "captain marvel", "cartoon", "cod modern warfare"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

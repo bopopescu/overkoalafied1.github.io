@@ -1,0 +1,1 @@
+["Entertain", ["entertainment", "entertainer", "entertainment weekly", "entertainment weekly bts", "entertaining videos", "entertainer piano", "entertainment news", "entertainment tonight", "entertainment tonight annie leblanc", "entertainment report"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

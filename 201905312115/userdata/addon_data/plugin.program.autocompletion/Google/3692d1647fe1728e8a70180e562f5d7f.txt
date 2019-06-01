@@ -1,0 +1,1 @@
+["pok", ["pokemon", "poke", "pokimane", "poker face", "pokemon go", "pokemon direct", "pokemon song", "pokemon movie", "pokemon sun and moon", "pokemon cards"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

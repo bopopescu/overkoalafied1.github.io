@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2>Custom item</label2>
+		<icon>DefaultGenre.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.covenant/?action=tvGenres",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Popular TV Shows</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/compilations.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.extendedinfo?info=populartvshows&amp;limit=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Top Rated TV Shows</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/bookmark-star.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.extendedinfo?info=topratedtvshows&amp;limit=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Currently Airing TV Shows</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/antenna.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.extendedinfo?info=onairtvshows&amp;limit=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Library</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/bookmark.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://script.extendedinfo?info=libraryalltvshows&amp;limit=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>var-videolibraryscanlabel</defaultID>
+		<label>$VAR[VideoLibraryScanLabel]</label>
+		<label2>Common Shortcut</label2>
+		<icon>$VAR[VideoLibraryScanIcon]</icon>
+		<thumb />
+		<action>UpdateLibrary(video)</action>
+	</shortcut>
+</shortcuts>

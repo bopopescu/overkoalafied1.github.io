@@ -1,0 +1,1 @@
+["Top R", ["top rap songs", "top ramen", "top rock songs", "top royale", "top rock songs 2019", "top r&b songs", "top romantic movies", "top ramen fix", "top rock", "top rap hits"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

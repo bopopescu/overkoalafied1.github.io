@@ -1,0 +1,163 @@
+<settings version="2">
+    <setting id="furk.api" default="true"></setting>
+    <setting id="furk.limit">25</setting>
+    <setting id="furk.user_name" default="true"></setting>
+    <setting id="furk.user_pass" default="true"></setting>
+    <setting id="gostream.pass" default="true"></setting>
+    <setting id="gostream.user" default="true"></setting>
+    <setting id="module.provider" default="true">OpenScrapers</setting>
+    <setting id="ororo.pass" default="true"></setting>
+    <setting id="ororo.user" default="true"></setting>
+    <setting id="provider.0day">true</setting>
+    <setting id="provider.111ys">true</setting>
+    <setting id="provider.123123movies">true</setting>
+    <setting id="provider.123hbo">true</setting>
+    <setting id="provider.123hulu" default="true">false</setting>
+    <setting id="provider.123moviehd">true</setting>
+    <setting id="provider.123movieshd" default="true">true</setting>
+    <setting id="provider.123movieshubz">true</setting>
+    <setting id="provider.1337x">true</setting>
+    <setting id="provider.2ddl">true</setting>
+    <setting id="provider.300mbdownload">true</setting>
+    <setting id="provider.300mbfilms">true</setting>
+    <setting id="provider.alltube" default="true">false</setting>
+    <setting id="provider.animeloads" default="true">false</setting>
+    <setting id="provider.animetoon">true</setting>
+    <setting id="provider.bestmoviez">true</setting>
+    <setting id="provider.bitlord" default="true">false</setting>
+    <setting id="provider.boxfilm" default="true">false</setting>
+    <setting id="provider.cartoonhd">true</setting>
+    <setting id="provider.cartoonwire">true</setting>
+    <setting id="provider.cdahd" default="true">false</setting>
+    <setting id="provider.cdax" default="true">false</setting>
+    <setting id="provider.cine" default="true">false</setting>
+    <setting id="provider.cinenator" default="true">false</setting>
+    <setting id="provider.cmovieshd">true</setting>
+    <setting id="provider.cmovieshdbz">true</setting>
+    <setting id="provider.coolmoviezone">true</setting>
+    <setting id="provider.cooltvseries">true</setting>
+    <setting id="provider.ddl" default="true">false</setting>
+    <setting id="provider.ddlspot">true</setting>
+    <setting id="provider.ddlvalley">true</setting>
+    <setting id="provider.directdl">true</setting>
+    <setting id="provider.dlwarez">true</setting>
+    <setting id="provider.ekinomaniak" default="true">false</setting>
+    <setting id="provider.ekinotv" default="true">false</setting>
+    <setting id="provider.extramovies">true</setting>
+    <setting id="provider.eztv">true</setting>
+    <setting id="provider.filepursuit" default="true">false</setting>
+    <setting id="provider.filiser" default="true">false</setting>
+    <setting id="provider.filmpalast" default="true">false</setting>
+    <setting id="provider.filmrls">true</setting>
+    <setting id="provider.filmsofts">true</setting>
+    <setting id="provider.filmwebbooster" default="true">false</setting>
+    <setting id="provider.filmxy">true</setting>
+    <setting id="provider.foxx" default="true">false</setting>
+    <setting id="provider.freefmovies">true</setting>
+    <setting id="provider.freeputlockers">true</setting>
+    <setting id="provider.furk" default="true">false</setting>
+    <setting id="provider.gamatotv" default="true">false</setting>
+    <setting id="provider.ganool123">true</setting>
+    <setting id="provider.glodls">true</setting>
+    <setting id="provider.gomovie">true</setting>
+    <setting id="provider.gostream" default="true">false</setting>
+    <setting id="provider.gowatchseries">true</setting>
+    <setting id="provider.hdfilme" default="true">false</setting>
+    <setting id="provider.hdmto">true</setting>
+    <setting id="provider.hdstreams" default="true">false</setting>
+    <setting id="provider.horrorkino" default="true">false</setting>
+    <setting id="provider.iload" default="true">false</setting>
+    <setting id="provider.iwaatch">true</setting>
+    <setting id="provider.kattv">true</setting>
+    <setting id="provider.kickass2">true</setting>
+    <setting id="provider.kinodogs" default="true">false</setting>
+    <setting id="provider.kinoking" default="true">false</setting>
+    <setting id="provider.kinow" default="true">false</setting>
+    <setting id="provider.kinox" default="true">false</setting>
+    <setting id="provider.library" default="true">false</setting>
+    <setting id="provider.lichtspielhaus" default="true">false</setting>
+    <setting id="provider.limetorrents">true</setting>
+    <setting id="provider.liomenoi" default="true">false</setting>
+    <setting id="provider.magnetdl">true</setting>
+    <setting id="provider.megapelistv" default="true">false</setting>
+    <setting id="provider.mftwbb">true</setting>
+    <setting id="provider.mkvcage">true</setting>
+    <setting id="provider.movie2k-ac" default="true">false</setting>
+    <setting id="provider.movie2k-ag" default="true">false</setting>
+    <setting id="provider.movie2z" default="true">false</setting>
+    <setting id="provider.movie4k" default="true">false</setting>
+    <setting id="provider.movieneo" default="true">false</setting>
+    <setting id="provider.moviesever" default="true">false</setting>
+    <setting id="provider.moviesleak">true</setting>
+    <setting id="provider.moviesonline">true</setting>
+    <setting id="provider.movieswbb">true</setting>
+    <setting id="provider.movietown" default="true">false</setting>
+    <setting id="provider.mvrls">true</setting>
+    <setting id="provider.mymoviego">true</setting>
+    <setting id="provider.myvideolink">true</setting>
+    <setting id="provider.mywatchepseries">true</setting>
+    <setting id="provider.naturalbd">true</setting>
+    <setting id="provider.netzkino" default="true">false</setting>
+    <setting id="provider.odb">true</setting>
+    <setting id="provider.openloadmovie">true</setting>
+    <setting id="provider.ororo" default="true">false</setting>
+    <setting id="provider.peliculasdk" default="true">false</setting>
+    <setting id="provider.pelisplustv" default="true">false</setting>
+    <setting id="provider.pepecine" default="true">false</setting>
+    <setting id="provider.piratebay">true</setting>
+    <setting id="provider.playmovies">true</setting>
+    <setting id="provider.primewire">true</setting>
+    <setting id="provider.projectfreetv">true</setting>
+    <setting id="provider.proxer" default="true">false</setting>
+    <setting id="provider.pubfilmonline">true</setting>
+    <setting id="provider.pureanime" default="true">false</setting>
+    <setting id="provider.putlocker">true</setting>
+    <setting id="provider.putlockeronl">true</setting>
+    <setting id="provider.reddit">true</setting>
+    <setting id="provider.rls4u">true</setting>
+    <setting id="provider.rlsarchive">true</setting>
+    <setting id="provider.rlsbb">true</setting>
+    <setting id="provider.rlslog">true</setting>
+    <setting id="provider.rmz">true</setting>
+    <setting id="provider.sceneddl">true</setting>
+    <setting id="provider.scenerls">true</setting>
+    <setting id="provider.scnsrc">true</setting>
+    <setting id="provider.seehd">true</setting>
+    <setting id="provider.segos" default="true">false</setting>
+    <setting id="provider.serienstream" default="true">false</setting>
+    <setting id="provider.series9">true</setting>
+    <setting id="provider.seriesever" default="true">false</setting>
+    <setting id="provider.seriesonline">true</setting>
+    <setting id="provider.skytorrents">true</setting>
+    <setting id="provider.solarmoviefree">true</setting>
+    <setting id="provider.streamdream" default="true">false</setting>
+    <setting id="provider.streamit" default="true">false</setting>
+    <setting id="provider.streamto" default="true">false</setting>
+    <setting id="provider.szukajkatv" default="true">false</setting>
+    <setting id="provider.tainiesonline" default="true">false</setting>
+    <setting id="provider.tainiomania" default="true">false</setting>
+    <setting id="provider.tata" default="true">false</setting>
+    <setting id="provider.toonget">true</setting>
+    <setting id="provider.torrentapi">true</setting>
+    <setting id="provider.torrentdownloads">true</setting>
+    <setting id="provider.tvbox">true</setting>
+    <setting id="provider.ultrahd">true</setting>
+    <setting id="provider.video4k" default="true">false</setting>
+    <setting id="provider.vidics">true</setting>
+    <setting id="provider.view4u" default="true">false</setting>
+    <setting id="provider.watchepisodes">true</setting>
+    <setting id="provider.watchfree1">true</setting>
+    <setting id="provider.watchseries">true</setting>
+    <setting id="provider.watchserieshd">true</setting>
+    <setting id="provider.watchseriessi">true</setting>
+    <setting id="provider.xrysoi" default="true">false</setting>
+    <setting id="provider.xwatchseries">true</setting>
+    <setting id="provider.yifimovies">true</setting>
+    <setting id="provider.yifyddl">true</setting>
+    <setting id="provider.ytsam">true</setting>
+    <setting id="provider.zoogle">true</setting>
+    <setting id="serienstream.pass" default="true"></setting>
+    <setting id="serienstream.user" default="true"></setting>
+    <setting id="torrent.enabled">true</setting>
+    <setting id="torrent.min.seeders">1</setting>
+</settings>

@@ -1,0 +1,17 @@
+<settings version="2">
+    <setting id="epgCache">false</setting>
+    <setting id="epgPath" default="true"></setting>
+    <setting id="epgPathType">1</setting>
+    <setting id="epgTimeShift" default="true">0</setting>
+    <setting id="epgTSOverride" default="true">false</setting>
+    <setting id="epgUrl">http://fffff.space:83/xmltv.php?username=9wNb1Mcj&amp;password=zvRR8qrZ</setting>
+    <setting id="logoBaseUrl" default="true"></setting>
+    <setting id="logoFromEpg" default="true">0</setting>
+    <setting id="logoPath" default="true"></setting>
+    <setting id="logoPathType">1</setting>
+    <setting id="m3uCache">false</setting>
+    <setting id="m3uPath" default="true"></setting>
+    <setting id="m3uPathType">1</setting>
+    <setting id="m3uUrl">http://fffff.space:83/get.php?username=9wNb1Mcj&amp;password=zvRR8qrZ&amp;type=m3u_plus&amp;output=ts</setting>
+    <setting id="startNum">1</setting>
+</settings>

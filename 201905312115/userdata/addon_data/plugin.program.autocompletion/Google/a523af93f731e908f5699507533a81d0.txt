@@ -1,0 +1,1 @@
+["Cove", ["cover", "cover songs", "cover me up", "covet", "cover girl", "cover dance", "cover letter", "cover me", "covenant", "covergirl rupaul"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

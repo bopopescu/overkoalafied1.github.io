@@ -1,0 +1,1 @@
+["ActivateWindow(1109,r", ["activatewindow(1109 rising sun", "activatewindow(1109 rising", "activatewindow(1109 rising sun ave"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

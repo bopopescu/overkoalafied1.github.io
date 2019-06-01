@@ -1,0 +1,1 @@
+["Ge", ["genius", "george jones", "george carlin", "get low", "gee money", "get out", "genie", "get down", "geometry dash", "george lopez"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

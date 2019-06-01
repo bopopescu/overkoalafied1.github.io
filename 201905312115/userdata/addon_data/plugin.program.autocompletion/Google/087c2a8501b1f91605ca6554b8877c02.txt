@@ -1,0 +1,1 @@
+["RunScript(script.extendedinfo,info=search_menu)", [], [], {"google:fieldtrialtriggered": true, "google:suggesttype": []}]

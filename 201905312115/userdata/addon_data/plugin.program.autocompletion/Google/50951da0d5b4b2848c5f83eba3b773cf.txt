@@ -1,0 +1,1 @@
+["ActivateWindo", ["activate windows 7", "activate windows 10 #windowsactivate #windows10proactivate", "activatewindow"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

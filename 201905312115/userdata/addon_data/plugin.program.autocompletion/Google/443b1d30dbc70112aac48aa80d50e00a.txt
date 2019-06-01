@@ -1,0 +1,1 @@
+["Gen", ["genius", "genie", "genesis", "generation zero", "gentleman", "general sam", "gente de zona", "gender reveal", "genuine", "gento"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

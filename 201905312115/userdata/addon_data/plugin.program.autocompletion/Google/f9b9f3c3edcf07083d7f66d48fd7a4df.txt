@@ -1,0 +1,1 @@
+["New", ["new song", "news", "new zealand", "new hindi song", "new call of duty 2019", "new edition", "new movie", "new natok", "new rules", "new hindi movie"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["OpenInf", ["opening", "open infographie", "open influence", "openinfra days", "open infra summit", "opening toys", "opening pokemon cards", "opening fan mail", "opening day", "opening lol dolls"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

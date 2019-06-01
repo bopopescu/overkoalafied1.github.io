@@ -1,0 +1,19 @@
+<settings version="2">
+    <setting id="library_sync_collection">true</setting>
+    <setting id="library_updates">true</setting>
+    <setting id="movies_batch_add_file_path" default="true">special://profile/addon_data/plugin.video.openmeta/movies_to_add.txt</setting>
+    <setting id="movies_library_folder" default="true">special://profile/addon_data/plugin.video.openmeta/Movies/</setting>
+    <setting id="players_update_url" default="true">http://bit.ly/openplayers</setting>
+    <setting id="random_pages">3</setting>
+    <setting id="tmdb_api" default="true"></setting>
+    <setting id="total_setup_done">true</setting>
+    <setting id="trakt_access_token">f3fd72c6f1821473e1c848ef9f37daeee8140fad373dbdbc28ec9a6fb41c94c5</setting>
+    <setting id="trakt_api_client_id" default="true"></setting>
+    <setting id="trakt_api_client_secret" default="true"></setting>
+    <setting id="trakt_expires_at">1561380236.94</setting>
+    <setting id="trakt_items_per_page">10</setting>
+    <setting id="trakt_refresh_token">685ad85bba93c22dcd869ad2977b4deaa8c4e3cfb2c8cea8e7ac82d74f9ede80</setting>
+    <setting id="tv_batch_add_file_path" default="true">special://profile/addon_data/plugin.video.openmeta/shows_to_add.txt</setting>
+    <setting id="tv_library_folder" default="true">special://profile/addon_data/plugin.video.openmeta/TVShows/</setting>
+    <setting id="tvdb_api" default="true"></setting>
+</settings>

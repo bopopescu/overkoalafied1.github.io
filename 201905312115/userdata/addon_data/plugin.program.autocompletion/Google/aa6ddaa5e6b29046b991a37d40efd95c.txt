@@ -1,0 +1,1 @@
+["Top Rat", ["top rated songs", "top rated songs 2019", "top rated movies on netflix", "top rated movies 2018", "top rated horror movies", "top rated ps4 games", "top rated music", "top rated rap songs 2019", "top rated games", "top rated xbox one games"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

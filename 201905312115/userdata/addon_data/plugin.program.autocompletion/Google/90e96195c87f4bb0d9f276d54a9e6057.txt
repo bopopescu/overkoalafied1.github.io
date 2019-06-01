@@ -1,0 +1,1 @@
+["News N", ["news now okc", "news now", "news now ohio", "news now community", "news nation", "news news", "news now dallas", "news new zealand", "news nepal", "news nbc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

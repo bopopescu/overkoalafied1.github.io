@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>22020</defaultID>
+		<label>22020</label>
+		<label2>Live TV</label2>
+		<icon>resource://resource.images.skinicons.wide/defaulttvshows.png</icon>
+		<thumb>special://skin/extras/icons/livetv.png</thumb>
+		<action>ActivateWindow(TVGuide)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>19019</defaultID>
+		<label>19019</label>
+		<label2>Live TV</label2>
+		<icon>resource://resource.images.skinicons.wide/defaulttvshows.png</icon>
+		<thumb>special://skin/extras/icons/playlist.png</thumb>
+		<action>ActivateWindow(TVChannels)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>137</defaultID>
+		<label>137</label>
+		<label2>Live TV</label2>
+		<icon>resource://resource.images.skinicons.wide/defaulttvshows.png</icon>
+		<thumb>special://skin/extras/icons/eye.png</thumb>
+		<action>ActivateWindow(TVSearch)</action>
+	</shortcut>
+</shortcuts>

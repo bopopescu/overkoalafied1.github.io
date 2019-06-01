@@ -1,0 +1,1 @@
+["Open", ["open arms", "open", "open the windows and let it out", "open season", "open mic", "open world games", "open carry", "open up your eyes", "open your heart", "open range"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["In Theaters", ["in theaters now", "in theaters", "in theaters 2019", "in theaters now trailers", "in theaters may 24", "in theaters now 2019 full movies", "in theaters may 3", "in theaters april 2019", "in theaters may 2019", "in theaters now march 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

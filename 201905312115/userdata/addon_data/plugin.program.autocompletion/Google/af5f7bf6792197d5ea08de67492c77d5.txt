@@ -1,0 +1,1 @@
+["Entertainment N", ["entertainment news", "entertainment natok", "entertainment nightcore", "entertainment now", "entertainment network", "entertainment nepal", "entertainment nation", "entertainment nexus", "entertainment news intro", "entertainment night"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

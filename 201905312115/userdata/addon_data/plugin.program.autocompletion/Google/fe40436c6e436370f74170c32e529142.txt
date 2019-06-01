@@ -1,0 +1,1 @@
+["Activat", ["activated charcoal", "activation lock", "activated", "activator", "activation energy", "activate swag", "activated carbon", "activation lock iphone 7", "activate windows 7", "activation lock ipad"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

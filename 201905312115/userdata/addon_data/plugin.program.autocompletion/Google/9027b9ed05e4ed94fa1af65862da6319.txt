@@ -1,0 +1,1 @@
+["ActivateWindow(", ["how to activate window 10"], [], {"google:suggesttype": ["QUERY"]}]

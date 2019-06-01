@@ -1,0 +1,1 @@
+["RunScript", ["run scripthelper.exe", "runscript zz_app_debug", "runscript selenium", "runscript minicom example", "run script in autocad", "runscript django"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

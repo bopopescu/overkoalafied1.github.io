@@ -1,0 +1,1 @@
+["Covenant - Hist", ["covenant history halo", "alien covenant history", "halo covenant historia", "historia de alien covenant"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

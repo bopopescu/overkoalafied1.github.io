@@ -1,0 +1,1 @@
+["News", ["news", "news live", "news bloopers", "newsboys", "news today", "news 24", "newsies", "news flash by current joys", "news fails", "newshour"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

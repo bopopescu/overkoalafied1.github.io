@@ -1,0 +1,1 @@
+["Ru", ["russ", "rust", "ruthless lil tjay", "run it up", "run", "rush", "runaway", "running man", "rubee", "ruby rube"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

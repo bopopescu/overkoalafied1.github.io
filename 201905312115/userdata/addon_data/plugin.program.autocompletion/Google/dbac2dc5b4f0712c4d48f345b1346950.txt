@@ -1,0 +1,1 @@
+["RunScr", ["runscribe", "runscribe plus", "runscribe review", "runscribe vs stryd", "runscribe plus review", "run scripthelper.exe", "runscribe calibration", "runscript zz_app_debug", "runscript selenium", "runscribe metrics"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

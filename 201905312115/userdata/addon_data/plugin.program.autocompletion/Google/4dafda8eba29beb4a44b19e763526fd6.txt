@@ -1,0 +1,1 @@
+["Libra", ["libra", "libra june 2019", "library", "libra tarot", "libra june 2019 tarot", "libra 2019", "library asmr", "libra love june 2019", "library prank", "libra horoscope"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

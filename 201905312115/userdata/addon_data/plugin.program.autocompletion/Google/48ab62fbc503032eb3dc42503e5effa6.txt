@@ -1,0 +1,1 @@
+["L", ["lil durk", "lil baby", "lil wayne", "lachlan", "lil pump", "lil skies", "lil tecca", "logic", "lil peep", "logan paul"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

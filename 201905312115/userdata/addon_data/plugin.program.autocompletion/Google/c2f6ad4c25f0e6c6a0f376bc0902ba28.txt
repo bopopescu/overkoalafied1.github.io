@@ -1,0 +1,1 @@
+["RunSc", ["runescape", "runscopes", "runescape 3", "runescape music", "runscribe", "runescape mobile", "runescape theme", "runscribe plus", "runescape ost", "runscap"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

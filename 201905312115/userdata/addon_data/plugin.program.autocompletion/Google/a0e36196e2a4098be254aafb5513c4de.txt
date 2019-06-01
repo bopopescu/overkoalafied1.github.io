@@ -1,0 +1,1 @@
+["Doc", ["documentary", "doctor squish", "doctor strange", "doctor", "doctor mike", "doctor who", "documentaries", "dockery", "doctor meme", "doc rivers kawhi leonard"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

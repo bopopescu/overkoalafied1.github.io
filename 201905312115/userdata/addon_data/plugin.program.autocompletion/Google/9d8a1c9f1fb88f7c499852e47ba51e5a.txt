@@ -1,0 +1,1 @@
+["Rec", ["reckless love", "recipe", "recess", "reckless", "recon expert", "recuerdos", "recorder songs", "recorder", "recoditos", "reckzo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
